@@ -1,6 +1,7 @@
 /*
 
-Queries used for Tableau Project data Vizualization
+Queries used for Tableau Project Data Vizualization
+URL of Tableau Data: https://public.tableau.com/app/profile/lucas.esposito3223/viz/Tableau_Vizualization_Covid_19/Dashboard1
 
 */
 
